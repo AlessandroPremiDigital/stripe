@@ -1,7 +1,7 @@
 {
     "name": "stripe/stripe",
     "description": "Stripe module M1",
-    "version":"0.1",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "Alessandro Barone",
