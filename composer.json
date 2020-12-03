@@ -1,0 +1,11 @@
+{
+    "name": "stripe/stripe",
+    "description": "Stripe module M1",
+    "authors": [
+        {
+            "name": "Alessandro Barone",
+            "email": "alessandro.barone@premidigital.it"
+        }
+    ],
+    "require": {}
+}
