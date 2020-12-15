@@ -8,5 +8,7 @@
             "email": "alessandro.barone@premidigital.it"
         }
     ],
-    "require": {}
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
