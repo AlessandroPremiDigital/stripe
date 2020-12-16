@@ -1,7 +1,7 @@
 {
     "name": "premi-digital/stripe",
     "description": "Stripe module M1",
-    "version": "1.4",
+    "version": "1.5",
     "authors": [
         {
             "name": "Alessandro Barone",
