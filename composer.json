@@ -13,8 +13,6 @@
     },
     "type": "magento-module",
     "extra": {
-        "magento-root-dir": "./magento",
-        "magento-deploystrategy": "copy",
-        "magento-force": true
+        "package-xml": "package.xml"
     }
 }
