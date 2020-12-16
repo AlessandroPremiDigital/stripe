@@ -1,7 +1,7 @@
 {
     "name": "premi-digital/stripe",
     "description": "Stripe module M1",
-    "version": "1.3",
+    "version": "1.4",
     "authors": [
         {
             "name": "Alessandro Barone",
@@ -11,5 +11,10 @@
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },
-    "type": "magento-module"
+    "type": "magento-module",
+    "extra": {
+        "magento-root-dir": "./magento",
+        "magento-deploystrategy": "copy",
+        "magento-force": true
+    }
 }
